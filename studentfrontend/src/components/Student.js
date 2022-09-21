@@ -29,7 +29,7 @@ export default function Student() {
       body:JSON.stringify(student)
 
   }).then(()=>{
-    console.log("New Student added")
+    console.log("Dodano nowego studenta")
   })
 }
 
